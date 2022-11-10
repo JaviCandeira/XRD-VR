@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e26864a98ee85644183098bc80f6c440
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Yusei Magic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: afc292a6d0d1d5247b5d50922188fdc3, type: 3}
+  - {fileID: 12800000, guid: e4a54d3018c59644aa2753be0e643f29, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
