@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class BallDetector : MonoBehaviour
 {
-    public GameObject ball;
     private GameObject Foam;
+    public GameObject Cup;
     // Start is called before the first frame update
     void Start()
     {
@@ -22,7 +22,8 @@ public class BallDetector : MonoBehaviour
        if(other.gameObject.CompareTag("Foam")){
         Debug.Log("Nice job!");
         Foam = other.GetComponentInParent(other.GetType()).gameObject;
-        Destroy(ball);
+        Destroy(other.gameObject);
+        Destroy(Cup);
         Destroy(Foam);
        }
     }
