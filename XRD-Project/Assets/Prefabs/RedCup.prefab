@@ -321,7 +321,6 @@ GameObject:
   - component: {fileID: 5332021470974079086}
   - component: {fileID: 2582232042870778971}
   - component: {fileID: 4198768119559066013}
-  - component: {fileID: 8691484947158966142}
   m_Layer: 0
   m_Name: RedCup
   m_TagString: Cup
@@ -442,19 +441,6 @@ MonoBehaviour:
   _grabbable: {fileID: 2121756884028436468}
   _rigidbody: {fileID: 5332021470974079086}
   _scaleMassWithSize: 1
---- !u!114 &8691484947158966142
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3934449158047381638}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 453590f9726c97a47b5b243e478791f4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Cup: {fileID: 3934449158047381638}
 --- !u!1 &6272700758675889167
 GameObject:
   m_ObjectHideFlags: 0

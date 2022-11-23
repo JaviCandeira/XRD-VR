@@ -27,8 +27,6 @@ namespace Oculus.Interaction.Samples
     {
         [SerializeField]
         private float _yThresholdForRespawn;
-        [SerializeField]
-        private float _yThresholdForRespawnTop = 5;
 
         [SerializeField]
         private UnityEvent _whenRespawned = new UnityEvent();
@@ -55,26 +53,6 @@ namespace Oculus.Interaction.Samples
         protected virtual void Update()
         {
             if (transform.position.y < _yThresholdForRespawn)
-            {
-                transform.position = _initialPosition;
-                transform.rotation = _initialRotation;
-                transform.localScale = _initialScale;
-
-                if (_rigidBody)
-                {
-                    _rigidBody.velocity = Vector3.zero;
-                    _rigidBody.angularVelocity = Vector3.zero;
-                }
-
-                foreach (var freeTransformer in _freeTransformers)
-                {
-                    freeTransformer.MarkAsBaseScale();
-                }
-
-                _whenRespawned.Invoke();
-            }
-
-            if (transform.position.y > _yThresholdForRespawnTop)
             {
                 transform.position = _initialPosition;
                 transform.rotation = _initialRotation;
