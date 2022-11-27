@@ -40,3 +40,8 @@ Cup Asset: https://github.com/rich-pel/BeerPong/tree/master/Assets/Blender
 ## Blog Post :
 
 Adrian, Dziugas and Javier
+
+https://xrdx8blog.blogspot.com/2022/10/mix-final-project9th-post.html
+https://xrdx8blog.blogspot.com/2022/11/mix-vr10th-post.html
+https://xrdx8blog.blogspot.com/2022/11/vr-11th-post-after-last-weeks-change-of.html
+https://xrdx8blog.blogspot.com/2022/11/mix-vr-12th-post.html
