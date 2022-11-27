@@ -21,6 +21,9 @@ Javier Candeira
 
     Javier
 
+## Video: 
+* https://youtu.be/_zZMZ0x4_yY
+
 ## Blog Post :
 
 Adrian and Javier
