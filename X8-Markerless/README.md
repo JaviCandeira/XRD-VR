@@ -2,8 +2,10 @@
 Art gallery portal in AR!
 
 Made by :
-Adrian
-Dziugas
+Dziugas Austys
+
+Adrian Ionuț
+
 Javier Candeira
 ## Contributions
 - Model of the art gallery:
@@ -15,9 +17,9 @@ Javier Candeira
 ## Blog Post :
 
 Adrian and Javier
-https://xrdx8blog.blogspot.com/2022/09/markerless-ar3rd-post.html
-https://xrdx8blog.blogspot.com/2022/09/markerless-ar4th-post.html
-https://xrdx8blog.blogspot.com/2022/09/markerless-ar5th-post.html
+* https://xrdx8blog.blogspot.com/2022/09/markerless-ar3rd-post.html
+* https://xrdx8blog.blogspot.com/2022/09/markerless-ar4th-post.html
+* https://xrdx8blog.blogspot.com/2022/09/markerless-ar5th-post.html
 
 ## Video:
 https://youtube.com/shorts/0KyI5EaUHzc?feature=share
