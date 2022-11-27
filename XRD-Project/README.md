@@ -40,6 +40,9 @@ Javier Candeira
 
 * Cup Asset: https://github.com/rich-pel/BeerPong/tree/master/Assets/Blender
 
+## Video:
+* https://youtu.be/PEGerMkou_I
+
 ## Blog Post :
 
 Adrian, Dziugas and Javier
