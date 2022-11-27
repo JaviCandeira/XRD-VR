@@ -22,3 +22,5 @@ Javier Candeira
 ## Blog Post :
 
 Adrian and Javier
+https://xrdx8blog.blogspot.com/2022/09/marker-based-ar-project2nd-post.html
+https://xrdx8blog.blogspot.com/2022/09/ar-project-1st-post.html
