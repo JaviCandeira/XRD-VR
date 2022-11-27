@@ -28,4 +28,4 @@ Ezy-slice : https://github.com/DavidArayan/ezy-slice
 
 ## Blog Post :
 
-Adrian and Javier
+Adrian, Dziugas and Javier
