@@ -29,3 +29,8 @@ Ezy-slice : https://github.com/DavidArayan/ezy-slice
 ## Blog Post :
 
 Adrian, Dziugas and Javier
+
+
+https://xrdx8blog.blogspot.com/2022/10/vr-app6th-post.html
+https://xrdx8blog.blogspot.com/2022/10/vr-app7th-post.html
+https://xrdx8blog.blogspot.com/2022/10/vr-app8th-post.html
